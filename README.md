@@ -7,9 +7,6 @@
 
 ## 说明
 程序及（部分）Unity项目文件已发布，直接下载即可
-### PigGame.rar:程序
-### PigTest.rar:Unity项目文件   Unity项目内导入即可
   
 ## 运行环境
-支持 Windows/Linux ;
-支持 Android
+Android
